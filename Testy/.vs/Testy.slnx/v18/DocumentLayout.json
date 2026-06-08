@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grzeg\\source\\repos\\Testy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|c:\\users\\grzeg\\source\\repos\\testy\\unittest\\systemiot_serwerhttp_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F190E7-B675-6E01-F209-BD476091BC92}|UnitTest\\UnitTest.csproj|solutionrelative:unittest\\systemiot_serwerhttp_tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|c:\\users\\grzeg\\source\\repos\\testy\\testy\\systemiot_serwerhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|solutionrelative:testy\\systemiot_serwerhttp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|c:\\users\\grzeg\\source\\repos\\testy\\testy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|solutionrelative:testy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|c:\\users\\grzeg\\source\\repos\\testy\\testy\\kodotwarciadrzwi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|solutionrelative:testy\\kodotwarciadrzwi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|c:\\users\\grzeg\\source\\repos\\testy\\testy\\codeoutofrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC2EBE12-77DC-41C6-57F4-1F99578E1C15}|Testy\\Testy.csproj|solutionrelative:testy\\codeoutofrange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodeOutOfRange.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\CodeOutOfRange.cs",
+              "RelativeDocumentMoniker": "Testy\\CodeOutOfRange.cs",
+              "ToolTip": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\CodeOutOfRange.cs",
+              "RelativeToolTip": "Testy\\CodeOutOfRange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:32:50.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KodOtwarciaDrzwi.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\KodOtwarciaDrzwi.cs",
+              "RelativeDocumentMoniker": "Testy\\KodOtwarciaDrzwi.cs",
+              "ToolTip": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\KodOtwarciaDrzwi.cs",
+              "RelativeToolTip": "Testy\\KodOtwarciaDrzwi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:59:48.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemIOT_SerwerHTTP.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\SystemIOT_SerwerHTTP.cs",
+              "RelativeDocumentMoniker": "Testy\\SystemIOT_SerwerHTTP.cs",
+              "ToolTip": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\SystemIOT_SerwerHTTP.cs",
+              "RelativeToolTip": "Testy\\SystemIOT_SerwerHTTP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:58:38.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemIOT_SerwerHTTP_Tests.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\source\\repos\\Testy\\UnitTest\\SystemIOT_SerwerHTTP_Tests.cs",
+              "RelativeDocumentMoniker": "UnitTest\\SystemIOT_SerwerHTTP_Tests.cs",
+              "ToolTip": "C:\\Users\\grzeg\\source\\repos\\Testy\\UnitTest\\SystemIOT_SerwerHTTP_Tests.cs*",
+              "RelativeToolTip": "UnitTest\\SystemIOT_SerwerHTTP_Tests.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwE4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:53:23.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\Program.cs",
+              "RelativeDocumentMoniker": "Testy\\Program.cs",
+              "ToolTip": "C:\\Users\\grzeg\\source\\repos\\Testy\\Testy\\Program.cs",
+              "RelativeToolTip": "Testy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:52:50.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
